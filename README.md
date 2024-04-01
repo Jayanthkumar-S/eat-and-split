@@ -1,3 +1,6 @@
+
+![Screenshot 2024-04-01 111734](https://github.com/Jayanthkumar-S/eat-and-split/assets/110847661/64ead62b-c00a-4854-adc8-c39aa786896f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
